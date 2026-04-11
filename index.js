@@ -15,8 +15,8 @@ const DISCORD_TOKEN = process.env.DISCORD_TOKEN;
 const config = {
   host: 'Spectral-Nova.aternos.me',
   port: 23782,
-  username: 'ShadowHunter623',
-  password: 'Rio133001',
+  username: 'MiningMania2366',
+  password: 'Rio133003',
   version: false
 };
 
